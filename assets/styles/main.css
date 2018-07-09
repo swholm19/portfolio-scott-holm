@@ -1,7 +1,12 @@
+
+
 body {
-  background: #000;
+  background-image: url('./Images/Hero.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 h1 {
-  color: #FF2734;
+  color: #494444;
+  text-align: center;
 }
